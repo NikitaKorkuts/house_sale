@@ -1,5 +1,5 @@
-"house1": [
-  {
+{
+  "house1": {
     "id": 1,
     "price": 1395000,
     "seller": "Trebach Realty, Inc.",
@@ -8,10 +8,8 @@
     "property_details": "EXCLUSIVE NEWLY LISTEDRenovated 6-Bd. Brick House w/ Patio, Yard & Garden on Netherland Ave.This 6-bedroom, 2-full- and 2-half bath, renovated brick house is located at 3031 Netherland Avenue (just south of West 231st Street) and was built in 1958.Features include: a tiled entry foyer; living room with eastern windows; formal dining room; renovated kitchen with granite countertops and stainless-steel appliances; main-floor bedroom and windowed full bathroom; rear 2nd-floor balcony; finished basement with recreation room, wet bar and half bathroom; storage attic with pull-down stairs; back mudroom with laundry; central air-conditioning; rear patio and garden; attached 2-car garage + gated 2-car driveway; 37-by-129-ft. lot.Conveniently situated for shops, parks, Metro-North trains, and express buses to Manhattan's East and West Sides.",
     "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3099.013979919874!2d-73.91439722120514!3d40.88217177897706!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f3eab4c91067%3A0x133cbb8979d59c5e!2zMzAzMSBOZXRoZXJsYW5kIEF2ZSwgVGhlIEJyb254LCBOWSAxMDQ2Mywg0KHQqNCQ!5e1!3m2!1sru!2sru!4v1594404556507!5m2!1sru!2sru",
     "images_url": "https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m2578277317od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m333040278od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m3649020315od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m1658687544od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m656538585od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m4090433272od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m711795017od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m4146893998od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m2117762632od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m677161462od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m2801868438od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m1143397741od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m603312253od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m411996807od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m1949871265od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m1025015197od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m3960037919od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m2001001153od-w1024_h768.jpg, https://ap.rdcpix.com/fc168a887effaf58d2aa275a367d1706l-m4121522542od-w1024_h768.jpg"
-  }
-],
-"house2": [
-  {
+  },
+  "house2": {
     "id": 2,
     "price": 789000,
     "seller": "Carmela Dragonetti (917) 348-1492",
@@ -20,10 +18,8 @@
     "property_details": "Immaculate Hi-Ranch, All Detached brick, Fully updated new kitchen & baths. Ceramic & granite floors, 4 bedrooms, 2 new full baths, New windows & doors, Full stand-up attic, Private yard, private driveway & 1 car garage.",
     "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3770.2129259494714!2d-73.84398114480649!3d40.64912850827417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25d7d8d8007db%3A0xabe0bf11edf4a2fd!2zMTY0LTEyIDg4dGggU3QsIEphbWFpY2EsIE5ZIDExNDE0LCDQodCo0JA!5e1!3m2!1sru!2sru!4v1594405266539!5m2!1sru!2sru",
     "images_url": "https://ap.rdcpix.com/86cf202dbadf23550b1c559603f5315al-m3290600474od-w1024_h768.jpg, https://ap.rdcpix.com/86cf202dbadf23550b1c559603f5315al-m2210229505od-w1024_h768.jpg, https://ap.rdcpix.com/86cf202dbadf23550b1c559603f5315al-m3118674163od-w1024_h768.jpg, https://ap.rdcpix.com/86cf202dbadf23550b1c559603f5315al-m930021490od-w1024_h768.jpg, https://ap.rdcpix.com/86cf202dbadf23550b1c559603f5315al-m465658646od-w1024_h768.jpg" 
-  }
-],
-"house3": [
-  {
+  },
+  "house3": {
     "id": 3,
     "price": 320000,
     "seller": "Alex Baron with Keller Williams Rlty Landmark",
@@ -33,4 +29,4 @@
     "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1743.2539504184638!2d-73.85697539850467!3d40.73006158255047!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25e31b779cac7%3A0x544f79aa913e155!2zNjQtMzMgOTl0aCBTdCAjM0gsIEZsdXNoaW5nLCBOWSAxMTM3NCwg0KHQqNCQ!5e1!3m2!1sru!2sru!4v1594405618986!5m2!1sru!2sru",
     "images_url": "https://ap.rdcpix.com/e6af2ab5fb0ff6778e225591220eae65l-m1445667257od-w1024_h768.jpg, https://ap.rdcpix.com/e6af2ab5fb0ff6778e225591220eae65l-m1921563167od-w1024_h768.jpg, https://ap.rdcpix.com/e6af2ab5fb0ff6778e225591220eae65l-m40037415od-w1024_h768.jpg, https://ap.rdcpix.com/e6af2ab5fb0ff6778e225591220eae65l-m1030524399od-w1024_h768.jpg, https://ap.rdcpix.com/e6af2ab5fb0ff6778e225591220eae65l-m3249493822od-w1024_h768.jpg, https://ap.rdcpix.com/e6af2ab5fb0ff6778e225591220eae65l-m546190578od-w1024_h768.jpg"
   }
-]
+}
